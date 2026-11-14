@@ -1,0 +1,6 @@
+GloVe + BiGRU-LSTM on CrisisBench
+accuracy: 0.8065 ± 0.0089
+precision: 0.8781 ± 0.0152
+recall: 0.7876 ± 0.0353
+f1: 0.8296 ± 0.0126
+auc: 0.8887 ± 0.0032
